@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karot\\source\\repos\\Webprojekt_Anna\\Webprojekt_Anna\\Webprojekt_Anna.csproj",
+      "projectUniqueName": "C:\\Users\\karot\\IdeaProjects\\Webprojekt_Anna\\Webprojekt_Anna\\Webprojekt_Anna.csproj",
       "projectName": "Webprojekt_Anna",
-      "projectPath": "C:\\Users\\karot\\source\\repos\\Webprojekt_Anna\\Webprojekt_Anna\\Webprojekt_Anna.csproj",
+      "projectPath": "C:\\Users\\karot\\IdeaProjects\\Webprojekt_Anna\\Webprojekt_Anna\\Webprojekt_Anna.csproj",
       "packagesPath": "C:\\Users\\karot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karot\\source\\repos\\Webprojekt_Anna\\Webprojekt_Anna\\obj\\",
+      "outputPath": "C:\\Users\\karot\\IdeaProjects\\Webprojekt_Anna\\Webprojekt_Anna\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karot\\AppData\\Roaming\\NuGet\\NuGet.Config",
