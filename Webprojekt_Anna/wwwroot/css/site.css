@@ -26,3 +26,6 @@ footer {
     clear: both;
     border-top: 1px solid plum;
 }
+img {
+    height: 125px;
+}
