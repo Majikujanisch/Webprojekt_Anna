@@ -36,3 +36,5 @@ C:\Users\karot\IdeaProjects\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp
 C:\Users\karot\IdeaProjects\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3.1\Webprojekt_Anna.genruntimeconfig.cache
 C:\Users\karot\IdeaProjects\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3.1\Webprojekt_Anna.csproj.CopyComplete
 C:\Users\karot\IdeaProjects\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Head.cshtml.g.cs
+C:\Users\karot\IdeaProjects\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3.1\Razor\Views\Pokemon\Index.cshtml.g.cs
+C:\Users\karot\IdeaProjects\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Navigation.cshtml.g.cs
