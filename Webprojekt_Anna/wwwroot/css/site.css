@@ -1,8 +1,9 @@
 ﻿header {
     height: 125px;
+    background-color: #fcdb03;
+    width: 100%;
 }
 #container {
-    width: 80%;
     min-width: 800px;
     margin: 0px auto;
 }
@@ -11,20 +12,26 @@ nav {
     min-width: 150px;
     float: left;
     min-height: 450px;
+    background-color: #f5ff6e;
+    border-top:solid;
+    border-width:thick;
 }
 content {
     width: 85%;
     min-width: 450px;
     float: left;
     min-height: 450px;
-    border-left: 1px solid plum;
-    border-right: 1px solid plum;
     padding: 20px 10px 10px 10px;
+    background-color: #fbffbf;
+    border-left:solid;
+    border-top:solid;
+    border-width:thick;
 }
 footer {
     height: 50px;
     clear: both;
-    border-top: 1px solid plum;
+    border-top: solid;
+    border-width: medium;
 }
 img {
     height: 125px;
