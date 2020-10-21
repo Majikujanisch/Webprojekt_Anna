@@ -1,3 +1,38 @@
-﻿<p>
+﻿@using Webprojekt_Anna.Models
+@model List<Pokemon>
+@{
+    ViewData["Title"] = "Pokemon";
+}
+<p>
     Hier kannst du zu jedem Pokedex Eintrag das Pokemon Auswählen:
 </p>
+@if (Model == null || Model.Count == 0)
+{
+    <p>
+        Es sind keine Pokemon Vorhanden.
+    </p>
+}
+else
+{
+    <table>
+        <tbody>
+            <tr>
+                <td>Pokedex NR</td>
+                <td>Name</td>
+            </tr>
+            @foreach (Pokemon poke in Model)
+            {
+                <tr>
+                    <td>@poke.Pokedex</td>
+                    <td>@poke.Name</td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="2">Das waren alle Aktuellen Pokemon</td>
+            </tr>
+        </tfoot>
+    </table>
+}
+
