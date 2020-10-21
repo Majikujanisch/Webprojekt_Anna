@@ -2,18 +2,18 @@ using System;
 
 namespace Webprojekt_Anna.Models
 {
-    public class Artikel
+    public class Pokemon
     {
-        public int ID { get; set; }
+        public int Pokedex { get; set; }
 
-        public string ArticleName{ get; set; }
+        public string Name{ get; set; }
         public string Brand { get; set; }
-        public DateTime ReleaseDate { get; set; }
-        public decimal Price { get; set; }
-        public string Category { get; set; }
-        public Artikel() : this(0,"","",DateTime.MinValue,0.0m,"") { }
+        public string Typ1 { get; set; }
+        public string Typ2 { get; set; }
+        public double Größe { get; set; }
+        public Pokemon() : this(0,"","","","",0.0m) { }
 
-        public Artikel(int id, string name, string brand, DateTime release,decimal price, string cate)
+        public Pokemon(int id, string name, string brand, DateTime release,decimal price, string cate)
         {
             this.ID = id;
             this.ArticleName = name;
