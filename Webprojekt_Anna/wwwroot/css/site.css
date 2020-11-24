@@ -42,10 +42,20 @@ content {
     border-width:thick;
 }
 footer {
-    height: 50px;
     clear: both;
+    height:50px;
     border-top: solid;
     border-width: medium;
+}
+footer ul{
+    float: right;
+    list-style-type:none;
+}
+footer ul li{
+    display: inline;
+    padding: 5px;
+    letter-spacing: 3px;
+
 }
 img {
     height: 125px;

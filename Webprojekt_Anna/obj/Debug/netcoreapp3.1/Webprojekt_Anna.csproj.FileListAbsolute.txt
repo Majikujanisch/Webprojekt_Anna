@@ -78,3 +78,7 @@ C:\Users\Anna\Source\Repos\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3
 C:\Users\Anna\Source\Repos\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3.1\Webprojekt_Anna.pdb
 C:\Users\Anna\Source\Repos\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3.1\Webprojekt_Anna.genruntimeconfig.cache
 C:\Users\Anna\Source\Repos\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3.1\Webprojekt_Anna.csproj.CopyComplete
+C:\Users\Anna\source\repos\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3.1\Razor\Views\Pokemon\Bisaknosp.cshtml.g.cs
+C:\Users\Anna\source\repos\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3.1\Razor\Views\Pokemon\Bisasam.cshtml.g.cs
+C:\Users\Anna\source\repos\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3.1\Razor\Views\Pokemon\Bisaflor.cshtml.g.cs
+C:\Users\Anna\source\repos\Webprojekt_Anna\Webprojekt_Anna\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs

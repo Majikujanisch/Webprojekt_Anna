@@ -13,6 +13,19 @@ namespace Webprojekt_Anna.Controllers
         {
             return View(CreatePokemonList());
         }
+        public IActionResult Bisasam()
+        {
+            return View(CreatePokemonList());
+        }
+        public IActionResult Bisaknosp()
+        {
+            return View(CreatePokemonList());
+        }
+        public IActionResult Bisaflor()
+        {
+            return View(CreatePokemonList());
+        }
+
         private List<Pokemon> CreatePokemonList()
     {
         return new List<Pokemon>()

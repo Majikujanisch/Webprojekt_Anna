@@ -23,8 +23,8 @@ else
             @foreach (Pokemon poke in Model)
             {
                 <tr>
-                    <td>@poke.Pokedex</td>
-                    <td>@poke.Name</td>
+                    <td> @poke.Pokedex</td>
+                    <td><a asp-controller="Pokemon" asp-action="@poke.Name">@poke.Name</a></td>
                 </tr>
             }
         </tbody>
